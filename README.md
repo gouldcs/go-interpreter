@@ -4,8 +4,8 @@ Following [Writing An Interpreter In Go](https://interpreterbook.com/).
 
 Testing lexer: `go test ./lexer`
 
-Current progress: page 30 of 206
+Current progress: page 44 of 206
 
-![](https://geps.dev/progress/14)
+![](https://geps.dev/progress/21)
 
 Running REPL: `go run main.go`
